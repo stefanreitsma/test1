@@ -37,9 +37,8 @@ nav ul li a {
 
 .col  {
   background: #333;
-  padding: 20px;
-  margin: 5px;
   float: left;
+  width: 33%;
 }
 
 footer  {
