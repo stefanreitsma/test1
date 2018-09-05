@@ -38,3 +38,7 @@ nav ul li a {
 .col  {
   float: left;
 }
+
+footer  {
+  clear: both;
+}
