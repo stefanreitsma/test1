@@ -5,6 +5,7 @@ body  {
 header  {
   background: #999;
   color: white;
+  margin: 0;
 }
 
 header h1 {
