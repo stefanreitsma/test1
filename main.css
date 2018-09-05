@@ -31,14 +31,20 @@ nav ul li a {
   color: white;
 }
 
-.row {
-
+.row:after {
+  clear: both;
+  content:"";
+  display: table;
 }
 
 .col  {
   background: #333;
+  border-radius: 5px;
+  color: white;
+  padding: 10px .5%;
   float: left;
-  width: 33%;
+  margin: .5%;
+  width: 31%;
 }
 
 footer  {
