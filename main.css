@@ -3,7 +3,7 @@ body  {
 }
 
 header  {
-  background: #999;
+  background: MediumSeaGreen;
   color: white;
   padding: 15px 15px 0 15px;
 }
@@ -20,7 +20,7 @@ nav ul  {
 }
 
 nav ul li {
-  background: black;
+  background: #6A686E;
   color: white;
   display: inline-block;
   list-style-type: none;
@@ -38,7 +38,7 @@ nav ul li a {
 }
 
 .col  {
-  background: #333;
+  background: MediumSeaGreen;
   border-radius: 5px;
   color: white;
   padding: 10px .5%;
@@ -49,4 +49,5 @@ nav ul li a {
 
 footer  {
   clear: both;
+  background: LightGray;
 }
